@@ -1,0 +1,25 @@
+p {
+    background-color: black;
+    border: 10px;
+    border-style: double;
+    padding: 20px 10px 20px 10px; /* interno */
+    margin: 10px 20px 10px 20px; /* externo */
+}
+
+.TesteClass {
+    background-color: crimson;
+    color: white;
+}
+
+body {
+    width: 800px;
+}
+
+#TesteID {
+    text-align: center;
+}
+
+li {
+    border: 2px;
+    border-style: dotted;
+}
